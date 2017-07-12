@@ -11,6 +11,7 @@ namespace test2a2.Areas.HelpPage.Controllers
     /// </summary>
     public class HelpController : Controller
     {
+        //
         private const string ErrorViewName = "Error";
 
         public HelpController()
